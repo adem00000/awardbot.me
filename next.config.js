@@ -2,7 +2,7 @@
 
 module.exports = withPWA({
     images: {
-        domains: [ "cdn.discordapp.com" ]https://github.com/kdensa-bgbg/awardbot.me/blob/main/next.config.js
+        domains: [ "cdn.discordapp.com" ]
     },
     i18n: {
         locales: Object.keys(require("./locales.config.js")),
